@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "movie",
+    "year": 1999,
+    "category": "Fantasy",
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/I/81EBp0vOZZL._AC_UF894,1000_QL80_.jpg",
+    "description": "A young hobbit named Frodo Baggins inherits a powerful ring and must destroy it to save Middle-earth."
+  },
+  {
+    "id":2,
+    "title":"The Lord Of The Rings :The Two Towers",
+    "type":"movie",
+    "year":2002,
+    "category":"Fantasy",
+    "rating":8.7,
+    "image":"https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_.jpg",
+    "description":"The second installment of the epic fantasy trilogy, following the journey of Frodo and his companions as they continue their quest to destroy the One Ring."
+  },
+  {
+    "id": 3,
+    "title": "The Lord of the Rings: The Return of the King",
+    "type": "movie",
+    "year": 2003,
+    "category": "Fantasy",
+    "rating": 9.0,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "The final installment of the epic fantasy trilogy, where the forces of good and evil clash in a battle for Middle-earth."
+  },
+  {
+    "id": 4,
     "title": "Inception",
     "type": "movie",
     "year": 2010,
@@ -10,7 +40,7 @@
     "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction."
   },
   {
-    "id": 2,
+    "id":5 ,
     "title": "Breaking Bad",
     "type": "series",
     "year": 2008,
@@ -20,7 +50,7 @@
     "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing methamphetamine."
   },
   {
-    "id": 3,
+    "id": 6,
     "title": "The Dark Knight",
     "type": "movie",
     "year": 2008,
@@ -30,7 +60,7 @@
     "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham."
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "Silence of the Lambs",
     "type": "movie",
     "year": 1991,
@@ -38,5 +68,25 @@
     "rating": 8.6,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXD5EzCfvxKSqbAfp8BlsWjDQumsX0S9rYVg&s",
     "description": "A young woman is forced to seek help from a brilliant psychiatrist to catch a serial killer."
+  },
+  {
+    "id": 8,
+    "title": "Naruto",
+    "type": "anime",
+    "year": 2002,
+    "category": "Action",
+    "rating": 8.3,
+    "image": "https://i.pinimg.com/736x/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
+    "description": "A young ninja strives to become the strongest ninja and gain the respect of his village."
+  },
+  {
+    "id":9,
+    "title":"Naruto Shippuden",
+    "type":"anime",
+    "year":2007,
+    "category":"Action",
+    "rating":8.6,
+    "image":"https://m.media-amazon.com/images/I/81Zj-BWityL.jpg",
+    "description":"The continuation of Naruto's journey as he faces new challenges and powerful enemies in his quest to protect his village."
   }
 ]
