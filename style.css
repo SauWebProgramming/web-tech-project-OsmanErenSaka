@@ -18,6 +18,9 @@ nav {
     color: white;
 }
 
+.btn-add { background-color: #2ecc71; color: white; border: none; padding: 5px 10px; cursor: pointer; }
+.btn-remove { background-color: #e74c3c; color: white; border: none; padding: 5px 10px; cursor: pointer; }
+.card-buttons { display: flex; gap: 5px; padding: 10px; justify-content: center; }
 
 .grid-container {
     display: grid;
@@ -37,7 +40,7 @@ nav {
     transition: transform 0.3s ease;
 }
 
-/* Resimlerin boyutunu sınırlama */
+
 .media-card img {
     width: 100%;       /* Kartın genişliğine yayıl */
     height: 350px;     /* Sabit yükseklik ver */
@@ -45,14 +48,37 @@ nav {
     display: block;
 }
 
-/* Kartın altındaki yazı alanı */
+
 .media-card h3, .media-card p {
     padding: 10px;
     margin: 0;
 }
-/*Mobile uyum için */
+
 @media (max-width: 768px) {
     .nav-links {
         display: none; 
+    }
+}
+.detail-container {
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 10px;
+}
+
+.detail-content {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.detail-content img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+
+@media (max-width: 768px) {
+    .detail-content {
+        flex-direction: column;
     }
 }
