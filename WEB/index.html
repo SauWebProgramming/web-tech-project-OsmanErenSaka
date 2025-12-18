@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoviSman</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">MoviSman</div>
+        <ul class="nav-links">
+            <li><a href="#" id="home-link">Ana Sayfa</a></li>
+            <li><a href="#" id="favorites-link">Favorilerim</a></li>
+        </ul>
+        </nav>
+
+    <header>
+        <input type="text" id="search-input" placeholder="Film veya dizi ara...">
+        <select id="filter-select">
+            <option value="all">Tüm Kategoriler</option>
+            <option value="movie">Film</option>
+            <option value="series">Dizi</option>
+        </select>
+    </header>
+
+    <main id="app-container">
+        <div id="media-grid" class="grid-container"></div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

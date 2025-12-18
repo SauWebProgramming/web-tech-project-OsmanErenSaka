@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "type": "movie",
+    "year": 2010,
+    "category": "Sci-Fi",
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction."
+  },
+  {
+    "id": 2,
+    "title": "Breaking Bad",
+    "type": "series",
+    "year": 2008,
+    "category": "Drama",
+    "rating": 9.5,
+    "image": "https://image.tmdb.org/t/p/original/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing methamphetamine."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "type": "movie",
+    "year": 2008,
+    "category": "Action",
+    "rating": 9.0,
+    "image": "https://media.posterstore.com/site_images/68631bd37d2ae084e18280d0_1667602922_WB0037-8.jpg",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham."
+  },
+  {
+    "id": 4,
+    "title": "Silence of the Lambs",
+    "type": "movie",
+    "year": 1991,
+    "category": "Thriller",
+    "rating": 8.6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXD5EzCfvxKSqbAfp8BlsWjDQumsX0S9rYVg&s",
+    "description": "A young woman is forced to seek help from a brilliant psychiatrist to catch a serial killer."
+  }
+]
