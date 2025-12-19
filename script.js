@@ -35,31 +35,17 @@ const displayMedia = (data) => {
         grid.appendChild(card);
     });
 };
-const filterMedia = () => {
-    const searchTerm = document.getElementById('search-input').value.toLowerCase();
-    const selectedCategory = document.getElementById('filter-select').value;
-
-    const filtered = allMedia.filter(item => {
-        const matchesSearch = item.title.toLowerCase().includes(searchTerm);
-        const matchesCategory = selectedCategory === 'all' || item.type === selectedCategory;
-        return matchesSearch && matchesCategory;
-    });
-
-    displayMedia(filtered);
-};
 function filterAndSort() {
     const searchTerm = document.getElementById('search-input').value.toLowerCase();
     const filterType = document.getElementById('filter-select').value;
     const sortType = document.getElementById('sort-select').value;
 
-    // 1. Filtreleme (Arama ve Tür)
     let filteredData = allMedia.filter(item => {
         const matchesSearch = item.title.toLowerCase().includes(searchTerm);
         const matchesType = filterType === 'all' || item.type === filterType;
         return matchesSearch && matchesType;
     });
 
-    // 2. Sıralama
     if (sortType === 'az') {
         filteredData.sort((a, b) => a.title.localeCompare(b.title));
     } else if (sortType === 'za') {
@@ -68,9 +54,9 @@ function filterAndSort() {
         filteredData.sort((a, b) => b.rating - a.rating);
     }
 
-    // 3. Sonuçları Görüntüle
     displayMedia(filteredData);
-}
+};
+    
 const addToFavorites = (id) => {
     const itemToAdd = allMedia.find(item => item.id === id);
     
@@ -164,3 +150,4 @@ document.getElementById('search-input').addEventListener('input', filterAndSort)
 document.getElementById('filter-select').addEventListener('change', filterAndSort);
 document.getElementById('sort-select').addEventListener('change', filterAndSort);
 document.addEventListener('DOMContentLoaded', loadData);
+
