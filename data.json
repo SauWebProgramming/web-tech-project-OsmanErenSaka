@@ -1,92 +1,242 @@
 [
   {
     "id": 1,
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "title": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
     "type": "movie",
-    "year": 1999,
-    "category": "Fantasy",
+    "year": 2001,
+    "category": "Fantastik",
     "rating": 8.8,
     "image": "https://m.media-amazon.com/images/I/81EBp0vOZZL._AC_UF894,1000_QL80_.jpg",
-    "description": "A young hobbit named Frodo Baggins inherits a powerful ring and must destroy it to save Middle-earth."
+    "description": "Genç bir hobbit olan Frodo Baggins, Orta Dünya'yı kurtarmak için kadim ve güçlü bir yüzüğü yok etmekle görevlendirilir."
   },
   {
-    "id":2,
-    "title":"The Lord Of The Rings :The Two Towers",
-    "type":"movie",
-    "year":2002,
-    "category":"Fantasy",
-    "rating":8.7,
-    "image":"https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_.jpg",
-    "description":"The second installment of the epic fantasy trilogy, following the journey of Frodo and his companions as they continue their quest to destroy the One Ring."
+    "id": 2,
+    "title": "Yüzüklerin Efendisi: İki Kule",
+    "type": "movie",
+    "year": 2002,
+    "category": "Fantastik",
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_.jpg",
+    "description": "Efsanevi üçlemenin ikinci bölümünde, Frodo ve arkadaşları Tek Yüzük'ü yok etme yolculuklarına devam ederken yeni ittifaklar kurarlar."
   },
   {
     "id": 3,
-    "title": "The Lord of the Rings: The Return of the King",
+    "title": "Yüzüklerin Efendisi: Kralın Dönüşü",
     "type": "movie",
     "year": 2003,
-    "category": "Fantasy",
+    "category": "Fantastik",
     "rating": 9.0,
     "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "description": "The final installment of the epic fantasy trilogy, where the forces of good and evil clash in a battle for Middle-earth."
+    "description": "Üçlemenin finalinde, iyilik ve kötülük güçleri Orta Dünya'nın kaderini belirlemek için son bir savaşta karşı karşıya gelir."
   },
   {
     "id": 4,
     "title": "Inception",
     "type": "movie",
     "year": 2010,
-    "category": "Sci-Fi",
+    "category": "Bilim Kurgu",
     "rating": 8.8,
     "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
-    "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction."
+    "description": "Dom Cobb, insanların rüyalarına girerek bilinçaltındaki sırları çalan yetenekli bir hırsızdır."
   },
   {
-    "id":5 ,
+    "id": 5,
     "title": "Breaking Bad",
     "type": "series",
     "year": 2008,
-    "category": "Drama",
+    "category": "Dram",
     "rating": 9.5,
     "image": "https://image.tmdb.org/t/p/original/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing methamphetamine."
+    "description": "Kanser olduğunu öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için eski öğrencisiyle uyuşturucu üretimine başlar."
   },
   {
     "id": 6,
-    "title": "The Dark Knight",
+    "title": "Kara Şövalye",
     "type": "movie",
     "year": 2008,
-    "category": "Action",
+    "category": "Aksiyon",
     "rating": 9.0,
     "image": "https://media.posterstore.com/site_images/68631bd37d2ae084e18280d0_1667602922_WB0037-8.jpg",
-    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham."
+    "description": "Batman, Joker adındaki kaos meraklısı bir suçlunun Gotham şehrine verdiği büyük zararı durdurmaya çalışır."
   },
   {
     "id": 7,
-    "title": "Silence of the Lambs",
+    "title": "Kuzuların Sessizliği",
     "type": "movie",
     "year": 1991,
-    "category": "Thriller",
+    "category": "Gerilim",
     "rating": 8.6,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXD5EzCfvxKSqbAfp8BlsWjDQumsX0S9rYVg&s",
-    "description": "A young woman is forced to seek help from a brilliant psychiatrist to catch a serial killer."
+    "description": "Genç bir FBI ajanı, başka bir seri katili yakalamak için hapsedilmiş dahi psikiyatrist Hannibal Lecter'ın yardımını almak zorunda kalır."
   },
   {
     "id": 8,
     "title": "Naruto",
     "type": "anime",
     "year": 2002,
-    "category": "Action",
+    "category": "Aksiyon",
     "rating": 8.3,
     "image": "https://i.pinimg.com/736x/f8/6c/c3/f86cc358c2f65afc5cc2472f9ec2bcc4.jpg",
-    "description": "A young ninja strives to become the strongest ninja and gain the respect of his village."
+    "description": "Dışlanmış genç bir ninja, köyünün en güçlü lideri (Hokage) olmak ve herkesin saygısını kazanmak için mücadele eder."
   },
   {
-    "id":9,
-    "title":"Naruto Shippuden",
-    "type":"anime",
-    "year":2007,
-    "category":"Action",
-    "rating":8.6,
-    "image":"https://m.media-amazon.com/images/I/81Zj-BWityL.jpg",
-    "description":"The continuation of Naruto's journey as he faces new challenges and powerful enemies in his quest to protect his village."
+    "id": 9,
+    "title": "Naruto Shippuden",
+    "type": "anime",
+    "year": 2007,
+    "category": "Aksiyon",
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/I/81Zj-BWityL.jpg",
+    "description": "Naruto'nun yolculuğu, köyünü korumak için çok daha güçlü düşmanlara ve karanlık bir örgüte karşı devam ediyor."
+  },
+  {
+    "id": 10,
+    "title": "Dragon Ball",
+    "type": "anime",
+    "year": 1986,
+    "category": "Macera",
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQ0ZWE4NDYtYWY0Mi00MjE0LWI1MzctZDA1NGExYzE3N2FiXkEyXkFqcGc@._V1_.jpg",
+    "description": "Maymun kuyruklu küçük bir çocuk olan Goku, yedi efsanevi Ejder Topu'nu bulmak için büyük bir maceraya atılır."
+  },
+  {
+    "id": 11,
+    "title": "Dragon Ball Z",
+    "type": "anime",
+    "year": 1989,
+    "category": "Aksiyon",
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BNmFiM2FkYTYtY2FiOS00ZWJkLTkyOTgtNmFmODI4NjcwNDgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Goku, yetişkin bir savaşçı olarak Dünya'yı galaksinin en tehlikeli ve güçlü düşmanlarına karşı savunur."
+  },
+  {
+    "id": 12,
+    "title": "Dragon Ball Super",
+    "type": "anime",
+    "year": 2015,
+    "category": "Aksiyon",
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BYTgyMzA5MjEtNDY3Ny00ZDkyLWJhYzEtYzI2Nzk5Mzc3ZDk1XkEyXkFqcGc@._V1_.jpg",
+    "description": "Majin Buu'nun yenilgisinden sonra Goku, evrenin yıkım tanrısı Beerus ile tanışır ve yeni güç seviyelerine ulaşır."
+  },
+  {
+    "id": 13,
+    "title": "Dexter",
+    "type": "series",
+    "year": 2006,
+    "category": "Suç",
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Gündüzleri adli tıp uzmanı olan Dexter, geceleri sadece adaletin elinden kaçan suçluları avlayan bir seri katildir."
+  },
+  {
+    "id": 14,
+    "title": "The Matrix",
+    "type": "movie",
+    "year": 1999,
+    "category": "Bilim Kurgu",
+    "rating": 8.7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSjSWOCaw5dnDL2GT1zFd9RMCgUGw5Q2Cfg&s",
+    "description": "Bir bilgisayar korsanı, yaşadığı dünyanın bir simülasyon olduğunu öğrenir ve insanlığı kurtaracak 'Seçilmiş Kişi' olduğunu keşfeder."
+  },
+  {
+    "id": 15,
+    "title": "Dövüş Kulübü",
+    "type": "movie",
+    "year": 1999,
+    "category": "Dram",
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg",
+    "description": "Sıradan bir ofis çalışanı, karizmatik bir sabun satıcısıyla tanışır ve gizli bir yer altı dövüş kulübü kurarlar."
+  },
+  {
+    "id": 16,
+    "title": "Better Call Saul",
+    "type": "series",
+    "year": 2015,
+    "category": "Suç",
+    "rating": 9.0,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_.jpg",
+    "description": "Breaking Bad öncesini anlatan dizi, küçük çaplı bir avukat olan Jimmy McGill'in nasıl ahlaksız avukat Saul Goodman'a dönüştüğünü konu alır."
+  },
+  {
+    "id": 17,
+    "title": "Sherlock",
+    "type": "series",
+    "year": 2010,
+    "category": "Gizem",
+    "rating": 9.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_.jpg",
+    "description": "Ünlü dedektif Sherlock Holmes ve ortağı Dr. Watson, günümüz Londra'sında en karmaşık ve gizemli vakaları çözerler."
+  },
+  {
+    "id": 18,
+    "title": "Stranger Things",
+    "type": "series",
+    "year": 2016,
+    "category": "Bilim Kurgu",
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_.jpg",
+    "description": "Küçük bir kasabada bir çocuğun kaybolmasıyla başlayan olaylar; doğaüstü güçlerin ve gizli hükümet deneylerinin ortaya çıkmasına neden olur."
+  },
+  {
+    "id": 19,
+    "title": "Game of Thrones",
+    "type": "series",
+    "year": 2011,
+    "category": "Fantastik",
+    "rating": 9.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "Yedi Krallık'ın kontrolünü ele geçirmek isteyen asil aileler, Demir Taht için kanlı bir taht kavgasına girer."
+  },
+  {
+    "id": 20,
+    "title": "Peaky Blinders",
+    "type": "series",
+    "year": 2013,
+    "category": "Suç",
+    "rating": 8.8,
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6a8638139933299.6238c58d45af7.png",
+    "description": "Birinci Dünya Savaşı sonrası Birmingham'da, tehlikeli bir çetenin lideri olan Thomas Shelby, ailesinin gücünü artırmak için her şeyi göze alır."
+  },
+  {
+    "id": 21,
+    "title": "Doctor Who",
+    "type": "series",
+    "year": 2005,
+    "category": "Bilim Kurgu",
+    "rating": 8.9,
+    "image": "https://posterfabrikasi.com/wp-content/uploads/2024/01/Doctor-Who.jpg",
+    "description": "Bir zaman yolculuğu yapan bir uzaylı, farklı zamanlarda ve yerlerde maceralar yaşar."
+  },
+  {
+    "id":22,
+    "title": "Good Place",
+    "type": "series",
+    "year": 2016,
+    "category": "Komedi",
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/I/91YtjKGJk0L._AC_UF1000,1000_QL80_.jpg",
+    "description": "Bir insan, kendi ahlakını ve yaşam tarzını sorgulayan bir komedi dizisi."
+  },
+  {
+    "id":23,
+    "title": "Godzilla (2014)",
+    "type": "movie",
+    "year": 2014,
+    "category": "Bilim Kurgu",
+    "rating": 6.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BODE2NTdmMmYtY2U1OS00MjExLWIwNjQtYjQ5NTA0ZDZmZjZiXkEyXkFqcGc@._V1_.jpg",
+    "description": "Devasa bir canavar, insanlık için büyük bir tehdit oluşturur."
+  },
+  {
+    "id":24,
+    "title": "Godzilla Minus One",
+    "type": "movie",
+    "year": 2023,
+    "category": "Bilim Kurgu",
+    "rating": 7.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMmM0MjE5MzMtMWNjZS00NTQ1LTg2MTEtNDdjNDQ0Mjg4YzgxXkEyXkFqcGc@._V1_.jpg",
+    "description": "Bir zaman yolculuğu yapan bir uzaylı, farklı zamanlarda ve yerlerde maceralar yaşar."
   }
 ]
